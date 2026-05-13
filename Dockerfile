@@ -1,5 +1,5 @@
 FROM nginx:alpine
 
-COPY Fedetec/. /usr/share/nginx/html
+COPY FEDETEC/. /usr/share/nginx/html
 
 EXPOSE 80
